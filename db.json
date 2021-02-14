@@ -1,0 +1,24 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "cxName": "Angus",
+      "cxNumber": "0412123123",
+      "cxNotes": "na",
+      "cxType": "Personal",
+      "sale": "Sale",
+      "request": "Upgrade",
+      "priority": true
+    },
+    {
+      "cxName": "Angus",
+      "cxNumber": "0478789789",
+      "cxNotes": "none",
+      "cxType": "Business",
+      "sale": "Sale",
+      "request": "Post-paid New",
+      "priority": false,
+      "id": 2
+    }
+  ]
+}
