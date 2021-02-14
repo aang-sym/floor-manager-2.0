@@ -21,3 +21,11 @@ In App.js useState, useEffect, react-router-dom and a JSON server are all used. 
 
 # Future tasks
 Bootstrap has been used but I would like to make it look more modern.
+
+SQL based back-end system for the database.
+
+Adding user registration and authentication.
+
+User analytics/statistics to show how quickly a customer gets served.
+
+Customer wait time that counts up when customer is added.
